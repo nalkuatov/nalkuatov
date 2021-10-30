@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Nurlan and I'm about to *properly fill in* this README :)
+
 <!--
 **nalkuatov/nalkuatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
