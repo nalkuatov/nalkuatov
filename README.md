@@ -4,6 +4,8 @@ I'm Nurlan and I'm about to *properly fill in* this README.
 
 Sometimes I post sth [here](https://nalkuatov.kz).
 
+Gitlab ~ [@nalkuatov](https://gitlab.com/nalkuatov)
+
 <!--
 **nalkuatov/nalkuatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
